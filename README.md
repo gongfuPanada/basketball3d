@@ -17,10 +17,9 @@ I wrote a simple blog post regarding this sample game:
 * [Learning Unity3D in One Day](http://www.harrysmemo.com/post/143100753957/learning-unity3d-in-one-day)
 
 
-### Get Started
+### How to Get Started
 
 Open the game folder, Basketball3D, in Unity, and try the game in the Play mode.
-
 You can use a mouse (or, arrow keys) to move around,
 and throw a ball using the "Fire1" button (e.g., left mouse button).
 
