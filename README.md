@@ -23,5 +23,5 @@ Just open the game folder, Basketball3D, in Unity and try the game in the Play m
 
 ## License
 
-MIT © [Harry Y](https://github.com/harrywye/cronparser)
+MIT © [Harry Y](https://github.com/harrywye/basketball3d)
 
